@@ -1,0 +1,12 @@
+{
+  "name": "token-contract",
+  "version": "1.0.0",
+  "description": "The files in this project displays a secured token contract and a faucet",
+  "github": "https://github.com/nnoromiv/TokenContract",
+  "author": "nnoromiv",
+  "license": "MIT",
+
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1"
+  }
+}
